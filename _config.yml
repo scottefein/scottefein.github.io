@@ -1,0 +1,44 @@
+title: Scott Efein's Tech Blog
+description: A blog about technology, APIs, and AI integration
+url: "https://scottefein.github.io"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Site metadata
+author:
+  name: Scott Efein
+  email: your-email@example.com
+
+# Social links (optional)
+github_username: scottefein
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Permalink structure
+permalink: /:title/
+
+# Pagination (if you plan to add more posts)
+paginate: 5
+paginate_path: "/page:num/"
+
+# Syntax highlighting
+highlighter: rouge
+
+# Collections (for future blog posts)
+collections:
+  posts:
+    output: true
+    permalink: /:title/
