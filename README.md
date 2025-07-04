@@ -1,4 +1,4 @@
-# Scott Efein's Tech Blog
+# Scott's Tech Blog
 
 A personal tech blog hosted on GitHub Pages, focusing on technology, APIs, and AI integration.
 
