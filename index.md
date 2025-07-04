@@ -9,7 +9,7 @@ Hi! I'm Scott and I sometimes write things down.
 
 ## Latest Posts
 
-### [MCP: The New API Layer for AI](./mcp-blog-post.html)
+### [MCP: The New API Layer for AI](./mcp-blog-post)
 *Published: 2025*
 
 If you've ever spent weeks integrating an AI tool with your API, only to watch it break when you update a single endpoint, you'll understand why MCP caught my attention. This post covers my experience implementing Model Context Protocol servers and why I think this represents a fundamental shift in how we'll build AI-connected systems.
@@ -21,7 +21,7 @@ If you've ever spent weeks integrating an AI tool with your API, only to watch i
 - Challenges and considerations for implementation
 - Future outlook for the MCP ecosystem
 
-[Read the full post →](./mcp-blog-post.html)
+[Read the full post →](./mcp-blog-post)
 
 ---
 

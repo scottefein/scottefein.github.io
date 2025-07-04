@@ -1,4 +1,4 @@
-title: Scott Efein's Tech Blog
+title: Scott Feinberg's Tech Blog
 description: A blog about technology, APIs, and AI integration
 url: "https://scottefein.github.io"
 baseurl: ""
@@ -11,7 +11,7 @@ plugins:
 
 # Site metadata
 author:
-  name: Scott Efein
+  name: Scott Feinberg
   email: your-email@example.com
 
 # Social links (optional)
