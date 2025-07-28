@@ -9,6 +9,21 @@ Hi! I'm Scott and I sometimes write things down.
 
 ## Latest Posts
 
+### [When Your MCP Server Breaks Everything: A Tale of API Versioning](./mcp-versioning)
+*Published: July 28, 2025*
+
+When an MCP server ships a breaking API change, entire AI workflows can come crashing down. Learn from the hard-won lessons of REST API versioning and discover three practical strategies to prevent your MCP server from becoming the next workflow-breaking villain. Because in the world of AI integrations, your users aren't developers who can adapt—they're people whose workflows depend on your stability.
+
+**Topics covered:**
+- The false promise of dynamic discovery in MCP
+- The ten commandments of API versioning from the REST era
+- Three practical strategies for MCP server versioning
+- Why your MCP users aren't developers and what that means
+
+[Read the full post →](./mcp-versioning)
+
+---
+
 ### [MCP: The New API Layer for AI](./mcp-blog-post)
 *Published: 2025*
 

@@ -5,9 +5,6 @@ date: 2025-07-28
 categories: [technology, api, ai, mcp]
 excerpt: "When an MCP server ships a breaking API change, entire AI workflows can come crashing down. Learn from the hard-won lessons of REST API versioning and discover three practical strategies to prevent your MCP server from becoming the next workflow-breaking villain. Because in the world of AI integrations, your users aren't developers who can adapt—they're people whose workflows depend on your stability."
 ---
-
-# When Your MCP Server Breaks Everything: A Tale of API Versioning
-
 "So it happened, Scott. An MCP server I use in one of my workflows shipped a breaking API change, and my entire workflow broke."
 
 ## The False Promise of Dynamic Discovery
